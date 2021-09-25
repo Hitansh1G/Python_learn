@@ -8,7 +8,7 @@ print ( age )
 int(birth_year)  
 # by this way we type caste the string value into an int value 
 
-similarly others are 
+# similarly others are 
 int()
 float()
 bool()
