@@ -7,7 +7,7 @@ while i < 10 :
 
 
 list = [1,2,3,4,5,6]
-for items in numbers:
+for items in list:
     print (list)
 
 
